@@ -1,0 +1,174 @@
+{
+  "version": 1,
+  "free": [
+    {
+      "id": "free-power-combos-48",
+      "name": "Power Combos 12x3",
+      "category": "boxing",
+      "difficulty": "intermediate",
+      "segments": [
+        { "type": "getReady", "duration": 15 },
+
+        { "type": "round", "duration": 180, "recommendedCombos": ["Jab", "1-2"] },
+        { "type": "rest", "duration": 60 },
+
+        { "type": "round", "duration": 180, "recommendedCombos": ["1-2", "1-2-3", "Slip Cross"] },
+        { "type": "rest", "duration": 60 },
+
+        { "type": "round", "duration": 180, "recommendedCombos": ["Double Jab", "Jab-Cross"] },
+        { "type": "rest", "duration": 60 },
+
+        { "type": "round", "duration": 180, "recommendedCombos": ["1-2-3", "1-2-3-2"] },
+        { "type": "rest", "duration": 60 },
+
+        { "type": "round", "duration": 180, "recommendedCombos": ["Jab Body", "Cross Body"] },
+        { "type": "rest", "duration": 60 },
+
+        { "type": "round", "duration": 180, "recommendedCombos": ["1-1-2", "Hook Cross"] },
+        { "type": "rest", "duration": 60 },
+
+        { "type": "round", "duration": 180, "recommendedCombos": ["1-2-Slip-2", "Roll Hook"] },
+        { "type": "rest", "duration": 60 },
+
+        { "type": "round", "duration": 180, "recommendedCombos": ["Uppercut-Hook", "1-2-5-2"] },
+        { "type": "rest", "duration": 60 },
+
+        { "type": "round", "duration": 180, "recommendedCombos": ["Fast Jab", "1-2"] },
+        { "type": "rest", "duration": 60 },
+
+        { "type": "round", "duration": 180, "recommendedCombos": ["1-2-3", "Slip Slip Cross"] },
+        { "type": "rest", "duration": 60 },
+
+        { "type": "round", "duration": 180, "recommendedCombos": ["Freestyle", "Power Shots"] },
+        { "type": "rest", "duration": 60 },
+
+        { "type": "round", "duration": 180, "recommendedCombos": ["Fast 1-1-2", "Hooks Only"] }
+      ]
+    },
+
+    {
+      "id": "free-burner-46",
+      "name": "45-Min Fundamentals",
+      "category": "boxing",
+      "difficulty": "beginner",
+      "segments": [
+        { "type": "getReady", "duration": 15 },
+
+        { "type": "round", "duration": 180, "recommendedCombos": ["Jab", "Jab-Cross"] },
+        { "type": "rest", "duration": 60 },
+
+        { "type": "round", "duration": 180, "recommendedCombos": ["Cross", "Lead Hook"] },
+        { "type": "rest", "duration": 60 },
+
+        { "type": "round", "duration": 180, "recommendedCombos": ["Jab Body", "Cross Body"] },
+        { "type": "rest", "duration": 60 },
+
+        { "type": "round", "duration": 180, "recommendedCombos": ["1-2", "1-2-3"] },
+        { "type": "rest", "duration": 60 },
+
+        { "type": "round", "duration": 180, "recommendedCombos": ["Slip-L", "Slip-R", "Slip Cross"] },
+        { "type": "rest", "duration": 60 },
+
+        { "type": "round", "duration": 240, "recommendedCombos": ["1-2 to Body", "1-2-3"] },
+        { "type": "rest", "duration": 60 },
+
+        { "type": "round", "duration": 240, "recommendedCombos": ["Jab-Jab-Cross", "Body Hook Head Hook"] },
+        { "type": "rest", "duration": 60 },
+
+        { "type": "round", "duration": 240, "recommendedCombos": ["1-2-3-2", "Roll Under Hook"] },
+        { "type": "rest", "duration": 60 },
+
+        { "type": "round", "duration": 240, "recommendedCombos": ["Freestyle Light", "Movement Focus"] },
+        { "type": "rest", "duration": 60 },
+
+        { "type": "round", "duration": 300, "recommendedCombos": ["Freestyle Finish", "Max Power 1-2"] }
+      ]
+    }
+  ],
+
+  "premium": [
+    {
+      "id": "premium-endurance-blast-56",
+      "name": "Endurance Blast",
+      "category": "boxing",
+      "difficulty": "advanced",
+      "segments": [
+        { "type": "getReady", "duration": 15 },
+
+        { "type": "round", "duration": 180, "recommendedCombos": ["Warm Jab", "1-2"] },
+        { "type": "rest", "duration": 60 },
+
+        { "type": "round", "duration": 180, "recommendedCombos": ["1-2-3", "Slip Cross"] },
+        { "type": "rest", "duration": 60 },
+
+        { "type": "round", "duration": 180, "recommendedCombos": ["1-2-3-2", "Roll Hook"] },
+        { "type": "rest", "duration": 60 },
+
+        { "type": "round", "duration": 180, "recommendedCombos": ["Double Jab", "Jab-Cross-Hook"] },
+        { "type": "rest", "duration": 60 },
+
+        { "type": "round", "duration": 180, "recommendedCombos": ["Body Jab", "Body Cross", "Head Hook"] },
+        { "type": "rest", "duration": 60 },
+
+        { "type": "round", "duration": 180, "recommendedCombos": ["1-1-2", "Uppercut-Hook"] },
+        { "type": "rest", "duration": 60 },
+
+        { "type": "round", "duration": 240, "recommendedCombos": ["1-2-3-2", "Slip Slip Cross"] },
+        { "type": "rest", "duration": 60 },
+
+        { "type": "round", "duration": 240, "recommendedCombos": ["Cross-Lead Hook", "Body Hook Head Hook"] },
+        { "type": "rest", "duration": 60 },
+
+        { "type": "round", "duration": 240, "recommendedCombos": ["1-2-5-2", "Roll Roll Hook"] },
+        { "type": "rest", "duration": 60 },
+
+        { "type": "round", "duration": 240, "recommendedCombos": ["1-6-3-2", "Uppercut Series"] },
+        { "type": "rest", "duration": 60 },
+
+        { "type": "round", "duration": 300, "recommendedCombos": ["Power 1-2", "Power 1-2-3"] },
+        { "type": "rest", "duration": 60 },
+
+        { "type": "round", "duration": 300, "recommendedCombos": ["Freestyle Power", "Max Speed 1-1-2"] }
+      ]
+    },
+
+    {
+      "id": "premium-title-fight-54",
+      "name": "Title Fight Camp",
+      "category": "boxing",
+      "difficulty": "advanced",
+      "segments": [
+        { "type": "getReady", "duration": 15 },
+
+        { "type": "round", "duration": 240, "recommendedCombos": ["Steady Jab", "1-2"] },
+        { "type": "rest", "duration": 60 },
+
+        { "type": "round", "duration": 240, "recommendedCombos": ["1-2-3", "Slip Inside Cross"] },
+        { "type": "rest", "duration": 60 },
+
+        { "type": "round", "duration": 240, "recommendedCombos": ["Jab-Jab-Cross", "Hook Cross"] },
+        { "type": "rest", "duration": 60 },
+
+        { "type": "round", "duration": 240, "recommendedCombos": ["1-2 to Body", "1-2-3 Head"] },
+        { "type": "rest", "duration": 60 },
+
+        { "type": "round", "duration": 240, "recommendedCombos": ["Uppercut-Hook", "Hook Cross Hook"] },
+        { "type": "rest", "duration": 60 },
+
+        { "type": "round", "duration": 240, "recommendedCombos": ["1-2-3-2", "Roll Hook Cross"] },
+        { "type": "rest", "duration": 60 },
+
+        { "type": "round", "duration": 300, "recommendedCombos": ["Power 1-2", "Body Body Head"] },
+        { "type": "rest", "duration": 60 },
+
+        { "type": "round", "duration": 300, "recommendedCombos": ["1-1-2-3", "Uppercut Flurry"] },
+        { "type": "rest", "duration": 60 },
+
+        { "type": "round", "duration": 300, "recommendedCombos": ["Freestyle Heavy", "Hooks Only"] },
+        { "type": "rest", "duration": 60 },
+
+        { "type": "round", "duration": 300, "recommendedCombos": ["Max Output 1-1-2", "Finish with Freestyle"] }
+      ]
+    }
+  ]
+}
