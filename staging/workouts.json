@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "free": [
     {
       "id": "free-power-combos-48",
@@ -8,569 +8,165 @@
       "difficulty": "intermediate",
       "segments": [
         { "type": "getReady", "duration": 15 },
-
-        {
-          "type": "round",
-          "duration": 180,
-          "recommendedCombos": ["Jab", "1-2"]
-        },
+        { "type": "round", "duration": 180, "recommendedCombos": ["Jab", "Jab, Cross"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 180,
-          "recommendedCombos": ["1-2", "1-2-3", "Slip Cross"]
-        },
+        { "type": "round", "duration": 180, "recommendedCombos": ["Jab, Cross", "Jab, Cross, Hook", "Slip, Cross"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 180,
-          "recommendedCombos": ["Double Jab", "Jab-Cross"]
-        },
+        { "type": "round", "duration": 180, "recommendedCombos": ["Double Jab", "Jab, Cross"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 180,
-          "recommendedCombos": ["1-2-3", "1-2-3-2"]
-        },
+        { "type": "round", "duration": 180, "recommendedCombos": ["Jab, Cross, Hook", "Jab, Cross, Hook, Cross"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 180,
-          "recommendedCombos": ["Jab Body", "Cross Body"]
-        },
+        { "type": "round", "duration": 180, "recommendedCombos": ["Body Jab", "Body Cross"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 180,
-          "recommendedCombos": ["1-1-2", "Hook Cross"]
-        },
+        { "type": "round", "duration": 180, "recommendedCombos": ["Double Jab, Cross", "Hook, Cross"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 180,
-          "recommendedCombos": ["1-2-Slip-2", "Roll Hook"]
-        },
+        { "type": "round", "duration": 180, "recommendedCombos": ["Jab, Cross, Slip, Cross", "Roll, Hook"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 180,
-          "recommendedCombos": ["Uppercut-Hook", "1-2-5-2"]
-        },
+        { "type": "round", "duration": 180, "recommendedCombos": ["Uppercut, Hook", "Jab, Cross, Lead Uppercut, Cross"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 180,
-          "recommendedCombos": ["Fast Jab", "1-2"]
-        },
+        { "type": "round", "duration": 180, "recommendedCombos": ["Fast Jab", "Jab, Cross"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 180,
-          "recommendedCombos": ["1-2-3", "Slip Slip Cross"]
-        },
+        { "type": "round", "duration": 180, "recommendedCombos": ["Jab, Cross, Hook", "Slip, Slip, Cross"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 180,
-          "recommendedCombos": ["Freestyle", "Power Shots"]
-        },
+        { "type": "round", "duration": 180, "recommendedCombos": ["Freestyle", "Power Shots"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 180,
-          "recommendedCombos": ["Fast 1-1-2", "Hooks Only"]
-        }
+        { "type": "round", "duration": 180, "recommendedCombos": ["Fast Double Jab, Cross", "Hooks Only"] }
       ]
     },
-
     {
-      "id": "free-burner-46",
+      "id": "free-fundamentals-45",
       "name": "45-Min Fundamentals",
       "category": "boxing",
       "difficulty": "beginner",
       "segments": [
         { "type": "getReady", "duration": 15 },
-
-        {
-          "type": "round",
-          "duration": 180,
-          "recommendedCombos": ["Jab", "Jab-Cross"]
-        },
+        { "type": "round", "duration": 180, "recommendedCombos": ["Jab", "Jab, Cross"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 180,
-          "recommendedCombos": ["Cross", "Lead Hook"]
-        },
+        { "type": "round", "duration": 180, "recommendedCombos": ["Cross", "Lead Hook"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 180,
-          "recommendedCombos": ["Jab Body", "Cross Body"]
-        },
+        { "type": "round", "duration": 180, "recommendedCombos": ["Body Jab", "Body Cross"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 180,
-          "recommendedCombos": ["1-2", "1-2-3"]
-        },
+        { "type": "round", "duration": 180, "recommendedCombos": ["Jab, Cross", "Jab, Cross, Hook"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 180,
-          "recommendedCombos": ["Slip-L", "Slip-R", "Slip Cross"]
-        },
+        { "type": "round", "duration": 180, "recommendedCombos": ["Slip Left", "Slip Right", "Slip, Cross"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 240,
-          "recommendedCombos": ["1-2 to Body", "1-2-3"]
-        },
+        { "type": "round", "duration": 180, "recommendedCombos": ["Body Jab, Cross", "Jab, Cross, Hook"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 240,
-          "recommendedCombos": ["Jab-Jab-Cross", "Body Hook Head Hook"]
-        },
+        { "type": "round", "duration": 180, "recommendedCombos": ["Double Jab, Cross", "Body Hook, Head Hook"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 240,
-          "recommendedCombos": ["1-2-3-2", "Roll Under Hook"]
-        },
+        { "type": "round", "duration": 180, "recommendedCombos": ["Jab, Cross, Hook, Cross", "Roll, Hook"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 240,
-          "recommendedCombos": ["Freestyle Light", "Movement Focus"]
-        },
+        { "type": "round", "duration": 180, "recommendedCombos": ["Freestyle Light", "Movement Focus"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 300,
-          "recommendedCombos": ["Freestyle Finish", "Max Power 1-2"]
-        }
+        { "type": "round", "duration": 180, "recommendedCombos": ["Freestyle Finish", "Power Jab, Cross"] }
       ]
     }
   ],
-
   "premium": [
     {
-      "id": "premium-muaythai-lowkicks-40",
+      "id": "premium-muay-thai-low-kicks-35",
       "name": "Muay Thai Low Kick Rounds",
       "category": "muayThai",
       "difficulty": "intermediate",
       "segments": [
         { "type": "getReady", "duration": 15 },
-
-        {
-          "type": "round",
-          "duration": 180,
-          "recommendedCombos": [
-            "Jab → Cross → Right Low Kick (to lead leg)",
-            "Jab → Right Low Kick"
-          ]
-        },
+        { "type": "round", "duration": 180, "recommendedCombos": ["Jab, Cross, Low Kick", "Jab, Low Kick"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 180,
-          "recommendedCombos": [
-            "Jab → Cross → Left Hook → Right Low Kick",
-            "Check → Cross → Left Hook"
-          ]
-        },
+        { "type": "round", "duration": 180, "recommendedCombos": ["Jab, Cross, Lead Hook, Low Kick", "Check, Cross, Lead Hook"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 180,
-          "recommendedCombos": [
-            "Lead Teep → Jab → Cross",
-            "Jab → Cross → Left Body Kick"
-          ]
-        },
+        { "type": "round", "duration": 180, "recommendedCombos": ["Teep, Jab, Cross", "Jab, Cross, Body Kick"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 180,
-          "recommendedCombos": [
-            "Jab → Cross → Right Low Kick (twice)",
-            "Cross → Left Hook → Right Low Kick"
-          ]
-        },
+        { "type": "round", "duration": 180, "recommendedCombos": ["Jab, Cross, Double Low Kick", "Cross, Lead Hook, Low Kick"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 180,
-          "recommendedCombos": [
-            "Jab → Right Body Kick",
-            "Jab → Cross → Left Hook → Right Body Kick"
-          ]
-        },
+        { "type": "round", "duration": 180, "recommendedCombos": ["Jab, Body Kick", "Jab, Cross, Lead Hook, Body Kick"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 180,
-          "recommendedCombos": [
-            "Jab → Cross → Switch Left Low Kick",
-            "Cross → Left Hook → Switch Left Body Kick"
-          ]
-        },
+        { "type": "round", "duration": 180, "recommendedCombos": ["Jab, Cross, Switch Low Kick", "Cross, Lead Hook, Switch Body Kick"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 180,
-          "recommendedCombos": [
-            "Jab → Cross → Right Low Kick → Step Out",
-            "Cross → Left Hook → Right Low Kick → Pivot"
-          ]
-        },
+        { "type": "round", "duration": 180, "recommendedCombos": ["Jab, Cross, Low Kick, Step Out", "Cross, Lead Hook, Low Kick, Pivot"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 180,
-          "recommendedCombos": [
-            "Hard Jab → Cross → Right Low Kick",
-            "Jab → Cross → Left Hook → Right Low Kick (power)"
-          ]
-        }
+        { "type": "round", "duration": 180, "recommendedCombos": ["Jab, Cross, Low Kick", "Jab, Cross, Lead Hook, Low Kick"] }
       ]
     },
-
     {
-      "id": "premium-muaythai-clinch-42",
+      "id": "premium-muay-thai-clinch-42",
       "name": "Muay Thai Clinch and Knees",
       "category": "muayThai",
       "difficulty": "advanced",
       "segments": [
         { "type": "getReady", "duration": 15 },
-
-        {
-          "type": "round",
-          "duration": 150,
-          "recommendedCombos": [
-            "Jab → Cross → Right Knee",
-            "Jab → Clinch Entry → Right Knee"
-          ]
-        },
+        { "type": "round", "duration": 180, "recommendedCombos": ["Jab, Cross, Knee", "Jab, Clinch, Knee"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 150,
-          "recommendedCombos": [
-            "Jab → Cross → Left Hook → Right Knee",
-            "Clinch → Right Knee → Right Knee → Left Knee"
-          ]
-        },
+        { "type": "round", "duration": 180, "recommendedCombos": ["Jab, Cross, Lead Hook, Knee", "Clinch, Knee, Knee, Knee"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 150,
-          "recommendedCombos": [
-            "Jab → Cross → Right Body Kick → Right Knee",
-            "Catch Kick → Right Cross → Right Knee"
-          ]
-        },
+        { "type": "round", "duration": 180, "recommendedCombos": ["Jab, Cross, Body Kick, Knee", "Catch, Cross, Knee"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 150,
-          "recommendedCombos": [
-            "Jab → Right Elbow → Left Elbow",
-            "Clinch → Right Knee → Right Knee → Left Elbow"
-          ]
-        },
+        { "type": "round", "duration": 180, "recommendedCombos": ["Jab, Elbow, Elbow", "Clinch, Knee, Knee, Elbow"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 150,
-          "recommendedCombos": [
-            "Jab → Cross → Left Hook → Right Low Kick → Right Knee",
-            "Clinch → Pull Down → Right Knee to Body"
-          ]
-        },
+        { "type": "round", "duration": 180, "recommendedCombos": ["Jab, Cross, Lead Hook, Low Kick, Knee", "Clinch, Pull Down, Body Knee"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 150,
-          "recommendedCombos": [
-            "Jab → Cross → Right Elbow",
-            "Jab → Left Hook → Downward Right Elbow"
-          ]
-        },
+        { "type": "round", "duration": 180, "recommendedCombos": ["Jab, Cross, Elbow", "Jab, Lead Hook, Elbow"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 150,
-          "recommendedCombos": [
-            "Lead Teep → Jab → Cross → Right Knee",
-            "Lead Teep → Switch Left Knee"
-          ]
-        },
+        { "type": "round", "duration": 180, "recommendedCombos": ["Teep, Jab, Cross, Knee", "Teep, Switch Knee"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 150,
-          "recommendedCombos": [
-            "Clinch → Right Knee → Left Knee → Right Knee",
-            "Clinch → Turn Opponent → Right Knee to Ribs"
-          ]
-        },
+        { "type": "round", "duration": 180, "recommendedCombos": ["Clinch, Knee, Knee, Knee", "Clinch, Turn, Body Knee"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 150,
-          "recommendedCombos": [
-            "Jab → Cross → Left Hook → Right Elbow",
-            "Jab → Right Uppercut → Left Elbow → Right Knee"
-          ]
-        },
+        { "type": "round", "duration": 180, "recommendedCombos": ["Jab, Cross, Lead Hook, Elbow", "Jab, Uppercut, Elbow, Knee"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 150,
-          "recommendedCombos": [
-            "Clinch → Alternating Knees (R-L-R-L)",
-            "Clinch → Right Knee → Right Knee → Right Elbow"
-          ]
-        }
+        { "type": "round", "duration": 180, "recommendedCombos": ["Clinch, Four Knees", "Clinch, Knee, Knee, Elbow"] }
       ]
     },
-
     {
-      "id": "premium-kickboxing-conditioning-38",
+      "id": "premium-kickboxing-power-45",
       "name": "Kickboxing Power Conditioning",
       "category": "kickboxing",
       "difficulty": "intermediate",
       "segments": [
         { "type": "getReady", "duration": 15 },
-
-        {
-          "type": "round",
-          "duration": 180,
-          "recommendedCombos": [
-            "Jab → Cross → Left Body Kick",
-            "Jab → Cross → Right Low Kick"
-          ]
-        },
+        { "type": "round", "duration": 180, "recommendedCombos": ["Jab, Cross, Body Kick", "Jab, Cross, Low Kick"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 180,
-          "recommendedCombos": [
-            "Jab → Cross → Left Hook → Right Body Kick",
-            "Jab → Cross → Right Head Kick (controlled)"
-          ]
-        },
+        { "type": "round", "duration": 180, "recommendedCombos": ["Jab, Cross, Lead Hook, Body Kick", "Jab, Cross, High Kick"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 180,
-          "recommendedCombos": [
-            "Lead Teep → Jab → Cross → Right Low Kick",
-            "Rear Teep → Cross → Left Hook → Right Low Kick"
-          ]
-        },
+        { "type": "round", "duration": 180, "recommendedCombos": ["Teep, Jab, Cross, Low Kick", "Teep, Cross, Lead Hook, Low Kick"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 180,
-          "recommendedCombos": [
-            "Jab → Cross → Left Hook → Right Body Kick → Right Low Kick",
-            "Cross → Left Hook → Right Head Kick"
-          ]
-        },
+        { "type": "round", "duration": 180, "recommendedCombos": ["Jab, Cross, Lead Hook, Body Kick, Low Kick", "Cross, Lead Hook, High Kick"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 180,
-          "recommendedCombos": [
-            "Jab (Head) → Cross (Body) → Left Hook (Head) → Right Low Kick",
-            "Jab → Cross → Left Hook → Right Body Kick → Step Off"
-          ]
-        },
+        { "type": "round", "duration": 180, "recommendedCombos": ["Jab, Body Cross, Lead Hook, Low Kick", "Jab, Cross, Lead Hook, Body Kick, Step Off"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 180,
-          "recommendedCombos": [
-            "Slip Outside → Jab → Cross → Right Low Kick",
-            "Slip Inside → Cross → Left Hook → Left Body Kick"
-          ]
-        },
+        { "type": "round", "duration": 180, "recommendedCombos": ["Slip, Jab, Cross, Low Kick", "Slip, Cross, Lead Hook, Body Kick"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 180,
-          "recommendedCombos": [
-            "Jab → Cross → Left Uppercut → Right Head Kick",
-            "Jab → Right Uppercut → Left Hook → Right Body Kick"
-          ]
-        },
+        { "type": "round", "duration": 180, "recommendedCombos": ["Jab, Cross, Lead Uppercut, High Kick", "Jab, Rear Uppercut, Lead Hook, Body Kick"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 180,
-          "recommendedCombos": [
-            "Double Jab → Cross → Left Hook → Right Low Kick",
-            "Jab → Cross → Left Hook → Right Body Kick → Left Hook"
-          ]
-        },
+        { "type": "round", "duration": 180, "recommendedCombos": ["Double Jab, Cross, Lead Hook, Low Kick", "Jab, Cross, Lead Hook, Body Kick, Lead Hook"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 180,
-          "recommendedCombos": [
-            "Jab → Cross → Right Low Kick → Right Low Kick",
-            "Jab → Cross → Left Hook → Right Head Kick (power)"
-          ]
-        },
+        { "type": "round", "duration": 180, "recommendedCombos": ["Jab, Cross, Double Low Kick", "Jab, Cross, Lead Hook, High Kick"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 180,
-          "recommendedCombos": [
-            "Jab → Cross → Left Hook → Right Body Kick → Right Low Kick (max effort)",
-            "Fast Jab → Cross → Right Low Kick (volume)"
-          ]
-        }
+        { "type": "round", "duration": 180, "recommendedCombos": ["Jab, Cross, Lead Hook, Body Kick, Low Kick", "Fast Jab, Cross, Low Kick"] }
       ]
     },
-
     {
-      "id": "premium-boxing-pressure-36",
+      "id": "premium-pressure-fighter-36",
       "name": "Pressure Fighter Rounds",
       "category": "boxing",
       "difficulty": "advanced",
       "segments": [
         { "type": "getReady", "duration": 15 },
-
-        {
-          "type": "round",
-          "duration": 210,
-          "recommendedCombos": [
-            "Double Jab → Cross",
-            "Jab → Cross → Left Hook to Body"
-          ]
-        },
+        { "type": "round", "duration": 210, "recommendedCombos": ["Double Jab, Cross", "Jab, Cross, Body Hook"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 210,
-          "recommendedCombos": [
-            "Jab → Cross → Left Hook → Right Cross",
-            "Jab (Head) → Cross (Body) → Left Hook (Head)"
-          ]
-        },
+        { "type": "round", "duration": 210, "recommendedCombos": ["Jab, Cross, Lead Hook, Cross", "Jab, Body Cross, Lead Hook"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 210,
-          "recommendedCombos": [
-            "Jab → Cross → Slip Outside → Left Hook",
-            "1-2-3 → Roll Under → 3-2"
-          ]
-        },
+        { "type": "round", "duration": 210, "recommendedCombos": ["Jab, Cross, Slip, Lead Hook", "Jab, Cross, Hook, Roll, Hook, Cross"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 210,
-          "recommendedCombos": [
-            "Jab → Cross → Left Hook to Body → Left Hook to Head",
-            "Cross → Left Hook → Cross → Step In"
-          ]
-        },
+        { "type": "round", "duration": 210, "recommendedCombos": ["Jab, Cross, Body Hook, Lead Hook", "Cross, Lead Hook, Cross, Step In"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 210,
-          "recommendedCombos": [
-            "Double Jab → Cross → Left Uppercut → Right Cross",
-            "Jab → Cross → Right Uppercut → Left Hook"
-          ]
-        },
+        { "type": "round", "duration": 210, "recommendedCombos": ["Double Jab, Cross, Lead Uppercut, Cross", "Jab, Cross, Rear Uppercut, Lead Hook"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 210,
-          "recommendedCombos": [
-            "1-2-3-2 → Roll → 3-2",
-            "1-2 → Step In → 3 (Body) → 3 (Head)"
-          ]
-        },
+        { "type": "round", "duration": 210, "recommendedCombos": ["Jab, Cross, Hook, Cross, Roll, Hook, Cross", "Jab, Cross, Step In, Body Hook, Lead Hook"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 210,
-          "recommendedCombos": [
-            "Jab → Cross → Left Hook → Left Hook to Body",
-            "Jab → Cross → Left Uppercut → Right Cross"
-          ]
-        },
+        { "type": "round", "duration": 210, "recommendedCombos": ["Jab, Cross, Lead Hook, Body Hook", "Jab, Cross, Lead Uppercut, Cross"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 210,
-          "recommendedCombos": [
-            "Fast 1-1-2-3-2",
-            "1-2-3 to Body → 3 to Head → 2 (finish strong)"
-          ]
-        }
+        { "type": "round", "duration": 210, "recommendedCombos": ["Fast Jab, Jab, Cross, Hook, Cross", "Body Jab, Cross, Hook, Lead Hook, Cross"] }
       ]
     },
-
     {
       "id": "premium-mixed-striking-44",
       "name": "All-Ranges Striking Circuit",
@@ -578,118 +174,29 @@
       "difficulty": "advanced",
       "segments": [
         { "type": "getReady", "duration": 15 },
-
-        {
-          "type": "round",
-          "duration": 150,
-          "recommendedCombos": [
-            "Jab → Cross → Left Hook → Right Low Kick",
-            "Jab → Cross → Right Body Kick"
-          ]
-        },
+        { "type": "round", "duration": 150, "recommendedCombos": ["Jab, Cross, Lead Hook, Low Kick", "Jab, Cross, Body Kick"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 150,
-          "recommendedCombos": [
-            "Jab → Cross → Right Knee",
-            "Lead Teep → Jab → Cross"
-          ]
-        },
+        { "type": "round", "duration": 150, "recommendedCombos": ["Jab, Cross, Knee", "Teep, Jab, Cross"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 150,
-          "recommendedCombos": [
-            "Jab → Cross → Right Head Kick",
-            "Jab → Right Uppercut → Left Hook → Right Low Kick"
-          ]
-        },
+        { "type": "round", "duration": 150, "recommendedCombos": ["Jab, Cross, High Kick", "Jab, Rear Uppercut, Lead Hook, Low Kick"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 150,
-          "recommendedCombos": [
-            "Jab → Cross → Left Hook to Body → Left Hook to Head",
-            "1-2-3-2 → Slip Outside → 3-2"
-          ]
-        },
+        { "type": "round", "duration": 150, "recommendedCombos": ["Jab, Cross, Body Hook, Lead Hook", "Jab, Cross, Hook, Cross, Slip, Hook, Cross"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 150,
-          "recommendedCombos": [
-            "Jab → Right Elbow → Left Elbow",
-            "Clinch → Right Knee → Left Knee"
-          ]
-        },
+        { "type": "round", "duration": 150, "recommendedCombos": ["Jab, Elbow, Elbow", "Clinch, Knee, Knee"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 150,
-          "recommendedCombos": [
-            "Jab → Cross → Left Hook → Right Body Kick → Step Off",
-            "Lead Teep → Cross → Left Hook → Right Low Kick"
-          ]
-        },
+        { "type": "round", "duration": 150, "recommendedCombos": ["Jab, Cross, Lead Hook, Body Kick, Step Off", "Teep, Cross, Lead Hook, Low Kick"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 150,
-          "recommendedCombos": [
-            "Jab → Cross → Right Head Kick → Right Low Kick",
-            "Jab → Cross → Left Hook → Right Knee"
-          ]
-        },
+        { "type": "round", "duration": 150, "recommendedCombos": ["Jab, Cross, High Kick, Low Kick", "Jab, Cross, Lead Hook, Knee"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 150,
-          "recommendedCombos": [
-            "Jab → Cross → Left Uppercut → Right Cross → Right Low Kick",
-            "Jab → Right Uppercut → Left Hook → Right Head Kick"
-          ]
-        },
+        { "type": "round", "duration": 150, "recommendedCombos": ["Jab, Cross, Lead Uppercut, Cross, Low Kick", "Jab, Rear Uppercut, Lead Hook, High Kick"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 150,
-          "recommendedCombos": [
-            "Slip Outside → Cross → Left Hook → Right Low Kick",
-            "Slip Inside → Left Hook → Right Cross → Left Body Kick"
-          ]
-        },
+        { "type": "round", "duration": 150, "recommendedCombos": ["Slip, Cross, Lead Hook, Low Kick", "Slip, Lead Hook, Cross, Body Kick"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 150,
-          "recommendedCombos": [
-            "Jab → Cross → Left Hook → Right Body Kick → Right Low Kick",
-            "Double Jab → Cross → Left Hook → Right Head Kick"
-          ]
-        },
+        { "type": "round", "duration": 150, "recommendedCombos": ["Jab, Cross, Lead Hook, Body Kick, Low Kick", "Double Jab, Cross, Lead Hook, High Kick"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 150,
-          "recommendedCombos": [
-            "Fast Jab → Cross → Right Low Kick (volume)",
-            "Power Jab → Cross → Left Hook → Right Head Kick (finish)"
-          ]
-        }
+        { "type": "round", "duration": 150, "recommendedCombos": ["Fast Jab, Cross, Low Kick", "Power Jab, Cross, Lead Hook, High Kick"] }
       ]
     },
-
     {
       "id": "premium-endurance-blast-56",
       "name": "Endurance Blast",
@@ -697,92 +204,31 @@
       "difficulty": "advanced",
       "segments": [
         { "type": "getReady", "duration": 15 },
-
-        {
-          "type": "round",
-          "duration": 180,
-          "recommendedCombos": ["Warm Jab", "1-2"]
-        },
+        { "type": "round", "duration": 180, "recommendedCombos": ["Warm Jab", "Jab, Cross"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 180,
-          "recommendedCombos": ["1-2-3", "Slip Cross"]
-        },
+        { "type": "round", "duration": 180, "recommendedCombos": ["Jab, Cross, Hook", "Slip, Cross"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 180,
-          "recommendedCombos": ["1-2-3-2", "Roll Hook"]
-        },
+        { "type": "round", "duration": 180, "recommendedCombos": ["Jab, Cross, Hook, Cross", "Roll, Hook"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 180,
-          "recommendedCombos": ["Double Jab", "Jab-Cross-Hook"]
-        },
+        { "type": "round", "duration": 180, "recommendedCombos": ["Double Jab", "Jab, Cross, Hook"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 180,
-          "recommendedCombos": ["Body Jab", "Body Cross", "Head Hook"]
-        },
+        { "type": "round", "duration": 180, "recommendedCombos": ["Body Jab", "Body Cross", "Head Hook"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 180,
-          "recommendedCombos": ["1-1-2", "Uppercut-Hook"]
-        },
+        { "type": "round", "duration": 180, "recommendedCombos": ["Double Jab, Cross", "Uppercut, Hook"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 240,
-          "recommendedCombos": ["1-2-3-2", "Slip Slip Cross"]
-        },
+        { "type": "round", "duration": 240, "recommendedCombos": ["Jab, Cross, Hook, Cross", "Slip, Slip, Cross"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 240,
-          "recommendedCombos": ["Cross-Lead Hook", "Body Hook Head Hook"]
-        },
+        { "type": "round", "duration": 240, "recommendedCombos": ["Cross, Lead Hook", "Body Hook, Head Hook"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 240,
-          "recommendedCombos": ["1-2-5-2", "Roll Roll Hook"]
-        },
+        { "type": "round", "duration": 240, "recommendedCombos": ["Jab, Cross, Lead Uppercut, Cross", "Roll, Roll, Hook"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 240,
-          "recommendedCombos": ["1-6-3-2", "Uppercut Series"]
-        },
+        { "type": "round", "duration": 240, "recommendedCombos": ["Jab, Rear Uppercut, Hook, Cross", "Uppercut Series"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 300,
-          "recommendedCombos": ["Power 1-2", "Power 1-2-3"]
-        },
+        { "type": "round", "duration": 300, "recommendedCombos": ["Power Jab, Cross", "Power Jab, Cross, Hook"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 300,
-          "recommendedCombos": ["Freestyle Power", "Max Speed 1-1-2"]
-        }
+        { "type": "round", "duration": 300, "recommendedCombos": ["Freestyle Power", "Fast Double Jab, Cross"] }
       ]
     },
-
     {
       "id": "premium-title-fight-54",
       "name": "Title Fight Camp",
@@ -790,75 +236,25 @@
       "difficulty": "advanced",
       "segments": [
         { "type": "getReady", "duration": 15 },
-
-        {
-          "type": "round",
-          "duration": 240,
-          "recommendedCombos": ["Steady Jab", "1-2"]
-        },
+        { "type": "round", "duration": 240, "recommendedCombos": ["Steady Jab", "Jab, Cross"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 240,
-          "recommendedCombos": ["1-2-3", "Slip Inside Cross"]
-        },
+        { "type": "round", "duration": 240, "recommendedCombos": ["Jab, Cross, Hook", "Slip, Cross"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 240,
-          "recommendedCombos": ["Jab-Jab-Cross", "Hook Cross"]
-        },
+        { "type": "round", "duration": 240, "recommendedCombos": ["Double Jab, Cross", "Hook, Cross"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 240,
-          "recommendedCombos": ["1-2 to Body", "1-2-3 Head"]
-        },
+        { "type": "round", "duration": 240, "recommendedCombos": ["Body Jab, Cross", "Jab, Cross, Hook"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 240,
-          "recommendedCombos": ["Uppercut-Hook", "Hook Cross Hook"]
-        },
+        { "type": "round", "duration": 240, "recommendedCombos": ["Uppercut, Hook", "Hook, Cross, Hook"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 240,
-          "recommendedCombos": ["1-2-3-2", "Roll Hook Cross"]
-        },
+        { "type": "round", "duration": 240, "recommendedCombos": ["Jab, Cross, Hook, Cross", "Roll, Hook, Cross"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 300,
-          "recommendedCombos": ["Power 1-2", "Body Body Head"]
-        },
+        { "type": "round", "duration": 300, "recommendedCombos": ["Power Jab, Cross", "Body Hook, Body Hook, Head Hook"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 300,
-          "recommendedCombos": ["1-1-2-3", "Uppercut Flurry"]
-        },
+        { "type": "round", "duration": 300, "recommendedCombos": ["Double Jab, Cross, Hook", "Uppercut Flurry"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 300,
-          "recommendedCombos": ["Freestyle Heavy", "Hooks Only"]
-        },
+        { "type": "round", "duration": 300, "recommendedCombos": ["Freestyle Heavy", "Hooks Only"] },
         { "type": "rest", "duration": 60 },
-
-        {
-          "type": "round",
-          "duration": 300,
-          "recommendedCombos": ["Max Output 1-1-2", "Finish with Freestyle"]
-        }
+        { "type": "round", "duration": 300, "recommendedCombos": ["Fast Double Jab, Cross", "Freestyle Finish"] }
       ]
     }
   ]
