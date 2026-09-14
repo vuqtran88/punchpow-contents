@@ -49,7 +49,7 @@
             "Jab, Cross, Jab",
             "Double Jab, Cross, Lead Hook",
             "Jab, Cross, Slip Right, Cross",
-            "1, 2, 1, 2"
+            "1-2-1-2"
           ]
         },
         {
@@ -137,7 +137,7 @@
           "recommendedCombos": [
             "Jab, Cross",
             "Double Jab, Cross, Jab",
-            "1, 2, 1, 2, Lead Hook",
+            "1-2-1-2, Lead Hook",
             "Jab, Cross, Lead Hook, Cross",
             "Triple Jab, Cross"
           ]
@@ -181,7 +181,7 @@
           "duration": 180,
           "recommendedCombos": [
             "Double Jab, Cross, Lead Hook, Cross",
-            "1, 2, 1, 2, 1, 2",
+            "1-2-1-2-1-2",
             "Lead Hook, Cross, Lead Hook, Cross",
             "Jab, Cross, Lead Uppercut, Cross",
             "Body Jab, Cross, Lead Hook, Cross"
@@ -341,7 +341,7 @@
             "Jab, Cross, Lead Hook, Cross",
             "Double Jab, Cross, Lead Uppercut",
             "Jab, Cross, Body Hook, Lead Hook",
-            "1, 2, 1, 2",
+            "1-2-1-2",
             "Jab, Cross, Slip Right, Cross"
           ]
         }
@@ -757,7 +757,7 @@
             "Jab, Cross, Lead Hook, Body Kick, Lead Hook",
             "Jab, Cross, Double Low Kick",
             "Cross, Lead Hook, Cross, Body Kick",
-            "1, 2, Lead Hook, Low Kick, High Kick"
+            "1-2, Lead Hook, Low Kick, High Kick"
           ]
         },
         {
@@ -1154,7 +1154,7 @@
           "recommendedCombos": [
             "Double Jab, Cross",
             "Jab, Cross, Hook",
-            "1, 2, 1, 2",
+            "1-2-1-2",
             "Double Jab, Cross, Lead Hook",
             "Jab, Cross, Jab, Cross, Lead Hook"
           ]
@@ -1273,7 +1273,7 @@
           "duration": 300,
           "recommendedCombos": [
             "Double Jab, Cross, Lead Hook, Cross",
-            "1, 2, 1, 2, 1, 2",
+            "1-2-1-2-1-2",
             "Lead Hook, Cross, Lead Hook, Cross",
             "Jab, Cross, Lead Uppercut, Cross, Lead Hook",
             "Triple Jab, Cross, Lead Hook, Cross"
@@ -1403,7 +1403,7 @@
             "Double Jab, Cross, Hook",
             "Lead Uppercut, Cross, Lead Hook, Cross",
             "Jab, Cross, Lead Uppercut, Lead Hook, Cross",
-            "1, 2, 1, 2, Lead Hook",
+            "1-2-1-2, Lead Hook",
             "Double Jab, Cross, Rear Uppercut, Lead Hook"
           ]
         },
@@ -1432,7 +1432,7 @@
           "recommendedCombos": [
             "Double Jab, Cross, Lead Hook, Cross",
             "Jab, Cross, Lead Body Hook, Lead Hook, Cross",
-            "1, 2, 1, 2, 1, 2",
+            "1-2-1-2-1-2",
             "Double Jab, Cross, Lead Uppercut, Lead Hook, Cross",
             "Lead Hook, Cross, Lead Hook, Cross"
           ]
@@ -1470,7 +1470,7 @@
             "Roll Left, Lead Hook, Cross",
             "Roll Right, Cross, Lead Hook",
             "Jab, Cross, Roll Left, Lead Hook",
-            "1, 2, Roll, 3, 2"
+            "1-2, Roll, 3-2"
           ]
         },
         {
@@ -1483,7 +1483,7 @@
           "recommendedCombos": [
             "Step Back, Cross",
             "Jab, Step Back, Cross",
-            "Step Back, 1, 2",
+            "Step Back, 1-2",
             "Jab, Step Back, Double Jab, Cross"
           ]
         },
@@ -1526,7 +1526,7 @@
             "Slip Left, Lead Body Hook, Cross",
             "Jab, Cross, Lead Body Hook",
             "Slip Right, Cross, Lead Body Hook",
-            "1, 2, Slip, 2, Lead Body Hook"
+            "1-2, Slip, 2, Lead Body Hook"
           ]
         },
         {
@@ -1551,7 +1551,7 @@
           "type": "round",
           "duration": 180,
           "recommendedCombos": [
-            "1, 2, Slip, 2",
+            "1-2, Slip, 2",
             "Slip Right, Cross, Lead Hook, Cross",
             "Roll Left, Lead Body Hook, Head Hook, Cross",
             "Check Hook, Cross, Lead Hook"
@@ -1616,7 +1616,7 @@
           "duration": 120,
           "recommendedCombos": [
             "Jab, Cross, Body Cross",
-            "1, 2, Lead Body Hook",
+            "1-2, Lead Body Hook",
             "Lead Hook, Cross, Lead Body Hook",
             "Double Jab, Rear Body Hook, Lead Hook"
           ]
@@ -1659,7 +1659,7 @@
           "recommendedCombos": [
             "Body Jab, Cross, Lead Hook",
             "Lead Body Hook, Cross, Lead Hook",
-            "1, 2, 5, 2",
+            "1-2-5-2",
             "Lead Uppercut, Lead Body Hook, Head Hook"
           ]
         },
@@ -1685,7 +1685,7 @@
           "type": "round",
           "duration": 120,
           "recommendedCombos": [
-            "1, 2, Lead Hook, Cross",
+            "1-2, Lead Hook, Cross",
             "Lead Body Hook, Rear Body Hook, Lead Hook",
             "Slip Left, Lead Uppercut, Cross",
             "Jab, Cross, Lead Hook, Body Cross"
@@ -1700,7 +1700,7 @@
           "duration": 120,
           "recommendedCombos": [
             "Lead Body Hook, Head Hook",
-            "1, 2, 1, 2, Lead Hook",
+            "1-2-1-2, Lead Hook",
             "Lead Uppercut, Cross, Lead Body Hook, Head Hook",
             "Lead Hook, Cross, Lead Hook, Cross"
           ]
@@ -1722,7 +1722,7 @@
           "duration": 180,
           "recommendedCombos": [
             "Jab, Cross, Low Kick",
-            "1, 2, Low Kick",
+            "1-2, Low Kick",
             "Cross, Lead Hook, Low Kick",
             "Double Jab, Low Kick"
           ]
@@ -1738,7 +1738,7 @@
             "Inside Low Kick, Cross, Hook",
             "Jab, Inside Low Kick, Cross",
             "Double Jab, Inside Low Kick",
-            "Inside Low Kick, 1, 2"
+            "Inside Low Kick, 1-2"
           ]
         },
         {
@@ -1752,7 +1752,7 @@
             "Jab, Cross, Lead Body Hook, Low Kick",
             "Lead Body Hook, Low Kick",
             "Cross, Lead Body Hook, Low Kick",
-            "1, 2, Lead Body Hook, Low Kick"
+            "1-2, Lead Body Hook, Low Kick"
           ]
         },
         {
@@ -1792,7 +1792,7 @@
           "duration": 180,
           "recommendedCombos": [
             "Check, Cross, Lead Hook, Low Kick",
-            "Check, 1, 2, Low Kick",
+            "Check, 1-2, Low Kick",
             "Check, Low Kick, Cross",
             "Jab, Check, Cross, Hook"
           ]
@@ -1820,7 +1820,7 @@
           "duration": 180,
           "recommendedCombos": [
             "Jab, Cross, Low Kick, Low Kick",
-            "1, 2, Low Kick, Low Kick",
+            "1-2, Low Kick, Low Kick",
             "Cross, Lead Hook, Low Kick, Low Kick",
             "Jab, Low Kick, Low Kick"
           ]
@@ -1841,7 +1841,7 @@
           "type": "round",
           "duration": 180,
           "recommendedCombos": [
-            "1, 2, 1, 2",
+            "1-2-1-2",
             "Double Jab, Cross, Lead Hook",
             "Jab, Cross, Lead Hook, Cross"
           ]
@@ -1855,7 +1855,7 @@
           "duration": 180,
           "recommendedCombos": [
             "Jab, Cross, Knee",
-            "1, 2, Knee",
+            "1-2, Knee",
             "Double Jab, Cross, Knee",
             "Cross, Lead Hook, Knee"
           ]
@@ -1885,7 +1885,7 @@
             "Jab, Cross, Low Kick",
             "Double Jab, Cross, Pivot, Cross",
             "Lead Hook, Cross, Lead Hook, Knee",
-            "1, 2, Lead Hook, Body Kick"
+            "1-2, Lead Hook, Body Kick"
           ]
         },
         {
@@ -1924,7 +1924,7 @@
           "type": "round",
           "duration": 180,
           "recommendedCombos": [
-            "Teep, 1, 2, Knee",
+            "Teep, 1-2, Knee",
             "Teep, Cross, Lead Hook, Low Kick",
             "Lead Teep, Cross, Knee",
             "Teep, Jab, Cross, High Kick"
@@ -1939,7 +1939,7 @@
           "duration": 180,
           "recommendedCombos": [
             "Jab, Cross, Lead Hook, Cross, Knee",
-            "1, 2, Lead Hook, Low Kick",
+            "1-2, Lead Hook, Low Kick",
             "Cross, Lead Hook, Cross, High Kick",
             "Double Jab, Cross, Knee, Low Kick"
           ]
@@ -1952,7 +1952,7 @@
           "type": "round",
           "duration": 180,
           "recommendedCombos": [
-            "1, 2, 1, 2, Lead Hook",
+            "1-2-1-2, Lead Hook",
             "Jab, Cross, Knee, Knee",
             "Lead Body Hook, Cross, High Kick",
             "Cross, Lead Hook, Cross, Low Kick"
@@ -2137,7 +2137,7 @@
           "duration": 180,
           "recommendedCombos": [
             "Jab, Cross, Knee",
-            "1, 2, Rear Knee",
+            "1-2, Rear Knee",
             "Lead Teep, Rear Knee",
             "Double Knee"
           ]
@@ -2180,7 +2180,7 @@
           "recommendedCombos": [
             "Teep, Cross, Lead Hook, Low Kick",
             "Jab, Cross, Body Kick, Knee",
-            "1, 2, Lead Hook, Body Kick",
+            "1-2, Lead Hook, Body Kick",
             "Cross, Lead Hook, Cross, Low Kick"
           ]
         },
@@ -2195,7 +2195,7 @@
             "Jab, Cross, High Kick",
             "Jab, Cross, Elbow, Knee",
             "Teep, Cross, Lead Hook, Knee",
-            "1, 2, Body Kick, Low Kick"
+            "1-2, Body Kick, Low Kick"
           ]
         }
       ]
