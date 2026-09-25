@@ -1721,7 +1721,6 @@
           "type": "round",
           "duration": 180,
           "recommendedCombos": [
-            "Jab, Cross, Low Kick",
             "1, 2, Low Kick",
             "Cross, Lead Hook, Low Kick",
             "Double Jab, Low Kick"
@@ -1749,7 +1748,6 @@
           "type": "round",
           "duration": 180,
           "recommendedCombos": [
-            "Jab, Cross, Lead Body Hook, Low Kick",
             "Lead Body Hook, Low Kick",
             "Cross, Lead Body Hook, Low Kick",
             "1, 2, Lead Body Hook, Low Kick"
@@ -1819,7 +1817,6 @@
           "type": "round",
           "duration": 180,
           "recommendedCombos": [
-            "Jab, Cross, Low Kick, Low Kick",
             "1, 2, Low Kick, Low Kick",
             "Cross, Lead Hook, Low Kick, Low Kick",
             "Jab, Low Kick, Low Kick"
@@ -1854,7 +1851,6 @@
           "type": "round",
           "duration": 180,
           "recommendedCombos": [
-            "Jab, Cross, Knee",
             "1, 2, Knee",
             "Double Jab, Cross, Knee",
             "Cross, Lead Hook, Knee"
